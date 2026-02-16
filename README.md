@@ -1,47 +1,101 @@
-# Project Documentation
+# Project Overview
+## English
+Boty is an innovative project aimed at solving real-world problems using technology. It offers various features that enhance user experience and provide valuable solutions.
 
-## Overview
-This project is an exciting game that combines strategy and skill to engage players. 
+## Arabic
+بروجيكت Boty هو مشروع مبتكر يهدف إلى حل المشاكل الواقعية باستخدام التكنولوجيا. يقدم ميزات متنوعة تعزز تجربة المستخدم وتوفر حلولًا قيمة.
 
-## الفلسفة
-تسعى هذه اللعبة إلى تقديم تجربة ممتعة وتعليمية للاعبين من جميع الأعمار.
+---
 
-## Economic Model
-The economic model is designed to keep the game self-sustaining while providing value to players through in-game purchases and advertising.
+# Psychology
+## English
+The psychology of this project revolves around understanding user needs and behaviors to create intuitive solutions.
 
-## Mechanics
-The game mechanics include turn-based strategy, resource management, and player vs player combat.
+## Arabic
+علم النفس وراء هذا المشروع يدور حول فهم احتياجات وسلوكيات المستخدمين لإنشاء حلول بديهية.
 
-## التقنية المستخدمة
-The tech stack consists of React for the front end, Node.js for the back end, and MongoDB for the database.
+---
 
-## Project Structure
-- `src/`: Contains the main source code
-- `public/`: Contains static files
-- `tests/`: Contains test scripts
+# Economics
+## English
+This project considers economic impacts and seeks cost-effective solutions to maximize value for users.
 
-## Getting Started Guide
-1. Clone the repository.
-2. Run `npm install` to install dependencies.
-3. Start the server with `npm start`.
+## Arabic
+يأخذ هذا المشروع في الاعتبار التأثيرات الاقتصادية ويسعى إلى حلول فعّالة من حيث التكلفة لتعظيم القيمة للمستخدمين.
 
-## Features
-- Engaging gameplay
+---
+
+# Features
+## English
 - User-friendly interface
-- Multiplayer modes
+- Real-time data processing
+- Secure transactions
 
-## Security
-We prioritize the security of our users' data and regularly update our security protocols.
+## Arabic
+- واجهة مستخدم سهلة
+- معالجة البيانات في الوقت الحقيقي
+- معاملات آمنة
 
-## Revenue Sources
-Revenue is generated through in-game purchases, subscriptions, and ads.
+---
 
-## Contribution Guidelines
-Contributions are welcome! Please fork the repo and submit a pull request with a detailed description of your changes.
+# Tech Stack
+## English
+- React for front-end
+- Node.js for back-end
+- MongoDB for database
 
-## Roadmap
-- Q1 2026: Release version 1.0
-- Q2 2026: Introduce new features and enhancements.
+## Arabic
+- React للواجهة الأمامية
+- Node.js للواجهة الخلفية
+- MongoDB كقاعدة بيانات
 
-## Contact Information
-For any inquiries, please reach out to the project maintainers.
+---
+
+# Structure
+## English
+The project is organized into modules for easy management and scalability.
+
+## Arabic
+تم تنظيم المشروع في وحدات لسهولة الإدارة والتوسع.
+
+---
+
+# Quick Start
+## English
+1. Clone the repository
+2. Install dependencies
+3. Run the application
+
+## Arabic
+1. استنساخ المستودع
+2. تثبيت التبعيات
+3. تشغيل التطبيق
+
+---
+
+# Security
+## English
+Ensure to follow best security practices to protect user data and privacy.
+
+## Arabic
+تأكد من اتباع أفضل ممارسات الأمان لحماية بيانات المستخدم وخصوصيته.
+
+---
+
+# Roadmap
+## English
+- Q1 2026: Feature enhancements
+- Q2 2026: User feedback implementation
+
+## Arabic
+- الربع الأول من 2026: تحسينات الميزات
+- الربع الثاني من 2026: تنفيذ تعليقات المستخدمين
+
+---
+
+# Contact Information
+## English
+For support, please contact: support@boty.com
+
+## Arabic
+للدعم، يرجى الاتصال على: support@boty.com
